@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=SedekahIllahi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats-psi-wheat.vercel.app/api?username=SedekahIllahi&show_icons=true&theme=dracula&count_private=true&include_all_commits=true")" height="165"/>
+  <img src="https://github-readme-stats-psi-wheat.vercel.app/api?username=SedekahIllahi&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
   <img src="https://github-readme-stats-psi-wheat.vercel.app/api/top-langs/?username=SedekahIllahi&layout=compact&theme=dracula"/>
 </p>
 
